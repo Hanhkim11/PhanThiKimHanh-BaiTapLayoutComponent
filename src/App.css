@@ -45,9 +45,8 @@
 }
 
 .card-footer-custom {
-  border-top: 2px solid #ddd;
-  border-bottom: 2px solid #ddd;
-  width: 100%;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   text-align: center;
 }
 

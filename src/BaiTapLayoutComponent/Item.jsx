@@ -76,10 +76,10 @@ const Item = () => {
         <div className="card-body text-center">
           <h5 className="card-title ">Card title</h5>
           <p className="mx-auto card-text pb-2">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-            esse necessitatibus neque.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
+            maiores quis quia, quasi id quo.
           </p>
-          <div className="card-footer-custom pt-3 pb-2   ">
+          <div className="card-footer-custom pt-3 pb-2">
             <a href="#" className="btn btn-primary ">
               Find out more !
             </a>
