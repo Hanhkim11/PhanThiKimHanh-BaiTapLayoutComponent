@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="card d-flex mx-auto mt-3  ps-4 " style={{ width: "54rem" }}>
+    <div className="card d-flex mx-auto mt-3  ps-7 " style={{ width: "54rem" }}>
       <div className="py-5 px-4 bg-secondary">
         <h5 className=" fs-1 thin-text ">A Warm Welcome !</h5>
         <p className="">
